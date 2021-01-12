@@ -1,0 +1,97 @@
+[23-Oct-2020 19:00:49 America/Sao_Paulo] PHP Warning:  include(classes/Painel.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:00:49 America/Sao_Paulo] PHP Warning:  include(classes/Painel.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:00:49 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Painel.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:00:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Painel' not found in /home1/urbana06/portal.trobcusbr.com/painel/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/urbana06/portal.trobcusbr.com/painel/index.php on line 11
+[23-Oct-2020 19:15:06 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:06 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:06 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Usuario.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Usuario' not found in /home1/urbana06/portal.trobcusbr.com/painel/pages/adicionar-usuario.php:14
+Stack trace:
+#0 /home1/urbana06/portal.trobcusbr.com/classes/painel.php(44): include()
+#1 /home1/urbana06/portal.trobcusbr.com/painel/main.php(77): Painel::carregarPainel()
+#2 /home1/urbana06/portal.trobcusbr.com/painel/index.php(42): include('/home1/urbana06...')
+#3 {main}
+  thrown in /home1/urbana06/portal.trobcusbr.com/painel/pages/adicionar-usuario.php on line 14
+[23-Oct-2020 19:15:36 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:36 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:36 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Usuario.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:15:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Usuario' not found in /home1/urbana06/portal.trobcusbr.com/painel/pages/adicionar-usuario.php:14
+Stack trace:
+#0 /home1/urbana06/portal.trobcusbr.com/classes/painel.php(44): include()
+#1 /home1/urbana06/portal.trobcusbr.com/painel/main.php(77): Painel::carregarPainel()
+#2 /home1/urbana06/portal.trobcusbr.com/painel/index.php(42): include('/home1/urbana06...')
+#3 {main}
+  thrown in /home1/urbana06/portal.trobcusbr.com/painel/pages/adicionar-usuario.php on line 14
+[23-Oct-2020 19:20:08 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:20:08 America/Sao_Paulo] PHP Warning:  include(classes/Usuario.php): failed to open stream: No such file or directory in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:20:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Usuario.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/urbana06/portal.trobcusbr.com/config.php on line 10
+[23-Oct-2020 19:20:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Usuario' not found in /home1/urbana06/portal.trobcusbr.com/painel/pages/editar-usuario.php:12
+Stack trace:
+#0 /home1/urbana06/portal.trobcusbr.com/classes/painel.php(44): include()
+#1 /home1/urbana06/portal.trobcusbr.com/painel/main.php(77): Painel::carregarPainel()
+#2 /home1/urbana06/portal.trobcusbr.com/painel/index.php(42): include('/home1/urbana06...')
+#3 {main}
+  thrown in /home1/urbana06/portal.trobcusbr.com/painel/pages/editar-usuario.php on line 12
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 15:41:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 15:41:29 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 15:41:29 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 15:41:29 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:40:24 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:40:25 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:40:25 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:40:25 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:48:01 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:48:01 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:48:01 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:48:02 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 17:48:09 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 17:48:09 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 17:48:09 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 21:08:17 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[17-Nov-2020 21:08:19 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[17-Nov-2020 21:08:19 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[17-Nov-2020 21:08:19 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[23-Nov-2020 17:17:26 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
+[23-Nov-2020 17:17:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 6
+[23-Nov-2020 17:17:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 8
+[23-Nov-2020 17:17:27 America/Fortaleza] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home4/urbana06/portal.trobcusbr.com/painel/index.php on line 14
